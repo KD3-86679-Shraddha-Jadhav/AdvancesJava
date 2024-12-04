@@ -1,0 +1,32 @@
+
+Dec 03, 2024 16:02:06.673 NEW SESSION
+Dec 03, 2024 16:02:06.673 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 03, 2024 16:02:06.673 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 03, 2024 16:02:06.700 [9496:13136:1203/160206.700:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:02:31.815 [9496:13136:1203/160231.815:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:03:16.232 [9496:13136:1203/160316.231:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:04:52.815 [9496:13136:1203/160452.814:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:08:49.831 [9496:13136:1203/160849.831:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:16:22.314 [9496:13136:1203/161622.313:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 16:37:34.387 [9496:13136:1203/163734.386:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 03, 2024 16:50:10.554 [9496:13136:1203/165010.554:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Dec 03, 2024 18:59:14.856 [9496:13136:1203/185914.853:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 03, 2024 19:05:11.823 [9496:13136:1203/190511.823:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Dec 03, 2024 20:50:42.895 NEW SESSION
+Dec 03, 2024 20:50:42.895 [8232:17052:1203/205042.894:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 20:50:43.267 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 03, 2024 20:50:43.278 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Dec 03, 2024 20:51:09.131 [8232:17052:1203/205109.131:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 20:51:31.291 [8232:17052:1203/205131.291:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 03, 2024 21:26:05.472 [8232:17052:1203/212605.472:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 03, 2024 21:26:07.480 [8232:17052:1203/212607.480:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 03, 2024 21:27:40.385 [8232:17052:1203/212740.384:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 03, 2024 21:31:24.944 [8232:17052:1203/213124.942:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 21:35:08.676 [8232:17052:1203/213508.675:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 03, 2024 21:39:08.826 [8232:17052:1203/213908.825:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Dec 03, 2024 22:01:04.732 [8232:17052:1203/220104.732:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 03, 2024 22:02:51.950 [8232:17052:1203/220251.950:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 03, 2024 22:02:54.378 [8232:17052:1203/220254.377:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Dec 03, 2024 22:03:45.389 [8232:17052:1203/220345.389:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Dec 03, 2024 22:51:34.352 [8232:20920:1203/225134.351:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
